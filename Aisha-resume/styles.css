@@ -2,11 +2,11 @@ body {
   padding: 20px 180px;
 }
 .skills {
-  background-color: bisque;
+  background-color: blanchedalmond;
   font-size: 12px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-======= body {
+body {
   background-image: url(images/bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
