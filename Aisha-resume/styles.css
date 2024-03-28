@@ -30,3 +30,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 >>>>>>> 4a9449c1d1eb4b4eef1e04305e5a0f64a4707842
 }
+#main {
+  background-color: blanchedalmond;
+  width: 300px;
+}
