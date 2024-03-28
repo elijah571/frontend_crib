@@ -1,3 +1,32 @@
+<<<<<<< HEAD
 body{
     padding: 20px 180px;
+=======
+body {
+  padding: 20px 180px;
+}
+.skills {
+  background-color: blanchedalmond;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  background-image: url(images/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  max-width: 600px;
+  background-color: white;
+
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 30px;
+}
+.left-section {
+  background-color: blanchedalmond;
+  width: 300px;
+  font-family: Arial, Helvetica, sans-serif;
+>>>>>>> 4a9449c1d1eb4b4eef1e04305e5a0f64a4707842
 }
