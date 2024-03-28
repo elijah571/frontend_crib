@@ -1,3 +1,8 @@
-body{
-    padding: 20px 180px;
+body {
+  padding: 20px 180px;
+}
+.skills {
+  background-color: bisque;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
