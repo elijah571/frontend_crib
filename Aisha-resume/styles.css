@@ -1,3 +1,20 @@
 body{
-    padding: 20px 180px;
+    background-image: url(images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.container{
+    max-width: 600px;
+    background-color: white;
+
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 30px;
+}
+.left-section{
+    background-color: blanchedalmond;
+    width: 300px;
+     font-family: Arial, Helvetica, sans-serif;
 }
