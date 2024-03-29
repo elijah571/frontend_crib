@@ -1,10 +1,11 @@
-<<<<<<< HEAD
+
 body{
-    background-image: url(images/bg.jpg);
+    background-image: url(images/bg.jpeg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-   
+    background-size: auto;
+    overflow: hidden;
+   padding-top: 150px 0 200px 150px;
 }
 .container {
   max-width: 600px;
@@ -14,13 +15,9 @@ body{
   grid-template-columns: 200px 1fr;
   gap: 30px;
 }
-.left-section {
-  background-color: blanchedalmond;
-  width: 300px;
-  font-family: Arial, Helvetica, sans-serif;
->>>>>>> 4a9449c1d1eb4b4eef1e04305e5a0f64a4707842
-}
-#main {
-  background-color: blanchedalmond;
-  width: 300px;
+.left-section{
+    width: 350px;
+    background-color: blanchedalmond;
+    font-size: 10px;
+
 }
