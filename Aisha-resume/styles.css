@@ -1,8 +1,13 @@
 body{
-    background-image: url(images/bg.jpg);
+    background-image: url(images/bg.jpeg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:contain;
+    overflow: hidden;
+    padding-top: 60px;
+    padding-right: 90px;
+    padding-left: 90px;
+    font-size: 10px;
    
 }
 .container{
