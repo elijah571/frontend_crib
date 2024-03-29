@@ -1,23 +1,35 @@
 
 body{
-    background-image: url(images/bg.jpeg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: auto;
-    overflow: hidden;
-   padding-top: 150px 0 200px 150px;
+   width: 100%;
+   background-color: white;
+   background-image: url(images/bg.jpeg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-top: 100px;
+   padding-bottom: 0;
+   padding-left: 200px;
+   padding-right: 200px;
+    
+}
+main{
+   width: 100%;
 }
 .container {
-  max-width: 600px;
-  background-color: white;
-
-  display: grid;
-  grid-template-columns: 200px 1fr;
-  gap: 30px;
+    background-color: #fff;
+    width: 800px;
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    gap: 0px;
 }
 .left-section{
     width: 350px;
+    height: fit-content;
     background-color: blanchedalmond;
-    font-size: 10px;
+    
+    margin: 0;
 
+}
+.right-section{
+    background-color: #fff;
 }
