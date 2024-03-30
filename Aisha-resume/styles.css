@@ -1,36 +1,33 @@
-
-body{
-   width: 100%;
-   background-color: white;
-   background-image: url(images/bg.jpeg);
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
-   padding-top: 100px;
-   padding-bottom: 0;
-   padding-left: 200px;
-   padding-right: 200px;
-   overflow-x: hidden;
-    
+body {
+  width: 100%;
+  background-color: white;
+  background-image: url(images/bg.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 0;
+  padding-left: 200px;
+  padding-right: 200px;
+  overflow-x: hidden;
 }
-main{
-   width: 100%;
+main {
+  width: 100%;
 }
 .container {
-    background-color: #fff;
-    width: 800px;
-    display: grid;
-    grid-template-columns: 400px 1fr;
-    gap: 0px;
+  background-color: #fff;
+  width: 800px;
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  gap: 0px;
 }
-.left-section{
-    width: 350px;
-    height: fit-content;
-    background-color: blanchedalmond;
-    
-    margin: 0;
+.left-section {
+  width: 350px;
+  height: fit-content;
+  background-color: rgb(230, 210, 179);
 
+  margin: 0;
 }
-.right-section{
-    background-color: #fff;
+.right-section {
+  background-color: #fff;
 }
