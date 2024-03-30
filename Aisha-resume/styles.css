@@ -44,7 +44,6 @@ main {
   height: 650px;
   width: 700px;
   font-size: 10px;
-
 }
 
 .container {
@@ -64,8 +63,8 @@ main {
   padding-right: 10px;
   height: 750px;
 }
-.profile{
-    margin-bottom: 30px;
+.profile {
+  margin-bottom: 30px;
 }
 
 .image {
@@ -83,16 +82,16 @@ img {
   height: 120px;
 }
 
-.skills{
-    margin-top: 20px;
-    margin-bottom: 25px;
+.skills {
+  margin-top: 20px;
+  margin-bottom: 25px;
 }
-.contact-info{
-    margin-top: 20px;
+.contact-info {
+  margin-top: 20px;
 }
 
 table {
-  border-spacing:  10px;
+  border-spacing: 10px;
 }
 
 /* =============== left section ends =============== */
@@ -102,44 +101,42 @@ table {
   margin: 0;
   padding-right: 10px;
   height: fit-content;
- 
 }
-p{
-    line-height: 12px;
-    font-size: 12px;
-    font-weight: lighter;
+p {
+  line-height: 12px;
+  font-size: 12px;
+  font-weight: lighter;
 }
-.about-section{
-    margin-bottom: 12px;
-    border-bottom:5px solid #a09d9d;
+.about-section {
+  margin-bottom: 12px;
+  border-bottom: 5px solid #a09d9d;
 }
-.work-experience{
-    
-    margin-top: 5px;
+.work-experience {
+  margin-top: 5px;
 }
-.experience{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+.experience {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
-.experience-item{
-    margin-top: 10px;
+.experience-item {
+  margin-top: 10px;
 }
-small{
-    color: #a09d9d;
-    font-weight: bold;
-    font-size: 12px;
+small {
+  color: #a09d9d;
+  font-weight: bold;
+  font-size: 12px;
 }
-.work-experience h3{
-    font-size:16px;
+.work-experience h3 {
+  font-size: 16px;
 }
-.work-experience p{
-    font-size: 14px;
-    line-height: 20px;
+.work-experience p {
+  font-size: 14px;
+  line-height: 20px;
 }
-.latest-project{
-  font-size:16px ;
-  line min-height: 20px;
+.latest-project {
+  font-size: 16px;
+  line-height: 20px;
 }
 
 /* =============== right section ends =============== */
