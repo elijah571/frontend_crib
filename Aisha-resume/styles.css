@@ -92,7 +92,7 @@ img {
 }
 
 table {
-  border-spacing: 0 5px;
+  border-spacing:  10px;
 }
 
 /* =============== left section ends =============== */
@@ -101,10 +101,41 @@ table {
   width: 400px;
   margin: 0;
   padding-right: 10px;
-  height: 750px;
-  text-align: left;
-  border: 1px solid red;
+  height: fit-content;
+ 
+}
+p{
+    line-height: 12px;
+    font-size: 12px;
+    font-weight: lighter;
+}
+.about-section{
+    margin-bottom: 12px;
+    border-bottom:5px solid #a09d9d;
+}
+.work-experience{
+    
+    margin-top: 5px;
+}
+.experience{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.experience-item{
+    margin-top: 10px;
+}
+small{
+    color: #a09d9d;
+    font-weight: bold;
+    font-size: 12px;
+}
+.work-experience h3{
+    font-size:16px;
+}
+.work-experience p{
+    font-size: 14px;
+    line-height: 20px;
 }
 
-
-/* =============== left section ends =============== */
+/* =============== right section ends =============== */
